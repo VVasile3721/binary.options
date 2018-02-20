@@ -1,0 +1,11 @@
+.meta/
+*.car
+*.bak
+.tmp/
+.metadata/
+RemoteSystemsTempFiles/
+.project
+.classpath
+.settings/
+target/
+/.externalToolBuilders
