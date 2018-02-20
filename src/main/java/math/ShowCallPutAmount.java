@@ -2,11 +2,11 @@ package math;
 
 import java.util.Scanner;
 
-public class Percentage {
+public class ShowCallPutAmount {
 
 	public static void main(String[] args) {
 
-		Percentage p = new Percentage();
+		ShowCallPutAmount p = new ShowCallPutAmount();
 		final int buget = p.registerNumber();
 		p.calculate(buget);
 
