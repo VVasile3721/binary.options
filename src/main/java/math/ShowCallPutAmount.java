@@ -5,14 +5,10 @@ import java.util.Scanner;
 public class ShowCallPutAmount {
 
   public static void main(String[] args) {
-
-    ShowCallPutAmount p = new ShowCallPutAmount();
-    final int buget = p.registerNumber();
-    p.calculate(buget);
-
+    calculate(registerNumber());
   }
 
-  public int registerNumber() {
+  public static int registerNumber() {
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter buget:");
     int buget = sc.nextInt();
@@ -20,7 +16,7 @@ public class ShowCallPutAmount {
     return buget;
   }
 
-  public void calculate(int buget) {
+  public static void calculate(int buget) {
     float[] x = { 1, 2.2F, 4.8F, 10.5F, 24, 57.5F };
     System.out.println("Amounts to Call/Put:");
     for (float y : x) {
