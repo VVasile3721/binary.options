@@ -8,11 +8,11 @@ public class AverageConsumption {
 
   public static void main(String[] args) {
     
-    System.out.println("Enter distance travelled");
+    System.out.println("Enter distance travelled (km):");
     float distanceTravelled = scanFloat();
-    System.out.println("Enter money spent");
+    System.out.println("Enter money spent (RON):");
     float moneySpent = scanFloat();
-    System.out.println("Enter gas price:");
+    System.out.println("Enter gas price (RON):");
     float gasPrice = scanFloat();
     calculateAvgConsumption(distanceTravelled, moneySpent, gasPrice);
   }
