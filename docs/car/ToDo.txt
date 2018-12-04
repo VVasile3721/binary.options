@@ -1,0 +1,20 @@
+-! full fix distributie (set curea ? + pompa apa)
+-! fix viteza mica (pierde ulei?!)
+
+- *amortizoare fata (SACHS - autopiesa.ro) ~>400
+- *bielete antiruliu
+- *capac protectie/burduf (LEMFORDER - autopiesa.ro, topran - epiesa.ro) ~70
+- becuri proiectoare
+
+- fix gauri evacuare aer
+- fix bara spate
+- janta otel
+- protectie volan
+
+DONE:
+- bujii (de montat)
+-! claxon
+- fix frana de mana
+- fix priza
+
+*de dus la service impreuna
