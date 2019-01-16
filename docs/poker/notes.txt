@@ -1,0 +1,28 @@
+# Notes
+- steal from SB w/ 3.5x blind
+- call from SB/BB when BTN opens/or someone has big stack as you. 
+  - if hit nuts, check/raise 3x to all-in
+- bad hands: K7o, A5o
+- if you represent top pair and show in turn, don't bluff
+- if you call 3-bet OOP and hit nuts, check raise
+- don't bluff fish-calling station
+
+# Situations
+## In position
+- 77
+  - H open --> V raise --> H call
+  - flop: 2-K-2
+  - V bet --> H reraise
+    - if call we are beat
+
+- QQ
+  - H open --> V call
+  - flop: 9-3s-Ks
+  - V check --> H call (for pot control)
+  - turn: 9s
+  - V bet --> H call
+  - river: 4
+    - we beat 10J 10Q
+  - V bet --> H call
+    - V bluffs w/ 66 (he should check and hope its good)
+
