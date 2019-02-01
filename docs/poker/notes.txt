@@ -1,11 +1,16 @@
 # Notes
-- steal from SB w/ 3.5x blind
 - call from SB/BB when BTN opens/or someone has big stack as you. 
   - if hit nuts, check/raise 3x to all-in
 - bad hands: K7o, A5o
-- if you represent top pair and show in turn, don't bluff
 - if you call 3-bet OOP and hit nuts, check raise
 - don't bluff fish-calling station
+- bet 3/4 on flush draw
+- 2nd barrel with NFD
+- https://www.youtube.com/watch?v=KZMU-N8fJ5s
+ - 41:03
+- follow up with C-bet from SB
+- when you are getting 3-bet OOP, don;t worry about FD
+- w/ TT+ all-in short-stacks
 
 # Situations
 ## In position
@@ -18,7 +23,7 @@
 - QQ
   - H open --> V call
   - flop: 9-3s-Ks
-  - V check --> H call (for pot control)
+  - V check --> H check (for pot control)
   - turn: 9s
   - V bet --> H call
   - river: 4
